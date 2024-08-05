@@ -1,0 +1,57 @@
+{
+    "listings": [
+        {
+            "price": "$799,000",
+            "beds": "1bd",
+            "baths": "1ba",
+            "sqft": "552 sqft",
+            "address": "1360 Montgomery St #1,  San Francisco, CA 94133",
+            "agent": "Nina Hatvany DRE #01152226, Compass"
+        },
+        {
+            "price": "$4,195,000",
+            "beds": "2bd",
+            "baths": "3ba",
+            "sqft": "2,505 sqft",
+            "address": "1100 Union St #1100,  San Francisco, CA 94109",
+            "agent": "Monica M. Pauli DRE #01309178, Compass"
+        },
+        {
+            "price": "$1,398,000",
+            "beds": "2bd",
+            "baths": "2ba",
+            "sqft": "1,236 sqft",
+            "address": "974 Dolores St,  San Francisco, CA 94110",
+            "agent": "Cynthia M. Pagan DRE #01932426, Legacy Real Estate"
+        },
+        {
+            "price": "$3,500,000",
+            "beds": "Studio",
+            "sqft": "10,014 sqft",
+            "address": "1255 Page St,  San Francisco, CA 94117",
+            "agent": "Dustin Dolby DRE #01963487, Colliers International"
+        },
+        {
+            "price": "$2,500,000",
+            "beds": "4bd",
+            "baths": "3ba",
+            "sqft": "2,630 sqft",
+            "address": "1502 Taylor St #3,  San Francisco, CA 94133",
+            "agent": "Nina Hatvany DRE #01152226, Compass"
+        },
+        {
+            "price": "$1,850,000",
+            "beds": "4bd",
+            "sqft": "3,000 sqft",
+            "address": "2001 17th St,  San Francisco, CA 94103",
+            "agent": "Gino V. Franco DRE #02027839, Marcus & Millichap"
+        },
+        {
+            "price": "$2,995,000",
+            "beds": "2bd",
+            "baths": "3ba",
+            "address": "2961 Pacific Ave,  San Francisco, CA 94115",
+            "agent": "Deborah Svoboda DRE #00665763, Sotheby's International Realty"
+        }
+    ]
+}

@@ -116,9 +116,9 @@ def save_formatted_data(formatted_data, timestamp, output_folder='output'):
 
 if __name__ == "__main__":
     # Scrape a single URL
-    url = 'https://www.zillow.com/salt-lake-city-ut/'
+    #url = 'https://www.zillow.com/salt-lake-city-ut/'
     # url = 'https://ma.indeed.com/emplois?q=data+scientist&l=Casablanca&sc=0kf%3Ajt(permanent)%3B&radius=100'
-    #url = 'https://www.trulia.com/CA/San_Francisco/'
+    url = 'https://www.trulia.com/CA/San_Francisco/'
     #url = 'https://www.seloger.com/immobilier/achat/immo-lyon-69/'
     
     try:
